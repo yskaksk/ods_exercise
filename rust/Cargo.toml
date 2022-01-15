@@ -26,3 +26,7 @@ path = "ch1/1_1-4.rs"
 [[example]]
 name = "1_1-5"
 path = "ch1/1_1-5.rs"
+
+[[example]]
+name = "1_1-6"
+path = "ch1/1_1-6.rs"
